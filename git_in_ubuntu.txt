@@ -1,0 +1,13 @@
+git basics for ubuntu 
+
+create repository 
+copy SSH key 
+go to terminal , type cd ~ and create a directory mkdir called repos 
+type git clone (copy the ssh key)
+type git remote -v 
+ls to repository type touch file_name.txt
+type git status (it will be not in staging state)
+type git add file_name.txt
+when you check status it will be in staged state 
+type git commit -m "Add file_name.txt"
+now it will be commited and can be opened and edited in any editor  
