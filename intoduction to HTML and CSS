@@ -1,0 +1,6 @@
+HTML 
+hyper text markup language is used to create basic structure of a web page 
+It uses element tags <>
+elements that wrap content have closing tags else self closing tags such as <br> <img> that dont wrap any content do not have closing tags.
+refer for all the tags required : https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+using the correct tags helps in how they are ranked in search engine and how accessible they are to others.
